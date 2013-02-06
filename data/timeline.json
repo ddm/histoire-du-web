@@ -1,0 +1,364 @@
+{
+  "timeline": {
+    "headline": "Internet et le Web",
+    "type": "default",
+    "startDate": "1969",
+    "text": "Un petit peu d'histoire...",
+    "asset": {
+      "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg",
+      "credit": "Wikipedia"
+    },
+    "date": [
+      {
+        "startDate": "1969,2,7",
+        "headline": "ARPANET: Première connexion",
+        "text": "D'abord on connecte deux PCs<br>...puis 4, puis...<br>",
+        "asset": {
+          "media": "http://www.netvalley.com/httpdocs/intval/07262/content/img/fournode-2_lowres.jpg",
+          "credit": "Gregory Gromov"
+        }
+      },
+      {
+        "startDate": "1972",
+        "headline": "ARPANET: Première démo publique",
+        "text": "Le public découvre les premières applications d'ARPANET sous la houlette étonnée d'AT&T.",
+        "asset": {
+          "media": "http://www.netvalley.com/httpdocs/intval/07262/content/img/net71-2_lowres.jpg",
+          "credit": "Gregory Gromov"
+        }
+      },
+      {
+        "startDate": "1972,03,26",
+        "headline": "Genèse de l'IANA",
+        "text": "Le besoin apparaît déjà de cataloguer des sockets existants.",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Vint_Cerf_-_2010.jpg/480px-Vint_Cerf_-_2010.jpg",
+          "credit": "Wikipedia",
+          "caption": "Vinton Gray Cerf"
+        }
+      },
+      {
+        "startDate": "1973,11",
+        "headline": "CYCLADES: Première démonstration",
+        "text": "Alternative à ARPANET développée par Louis Pouzin, inventeur du datagramme.",
+        "asset": {
+          "media": "http://www.historyofcomputercommunications.info/images/BookImages/clip_image003_0003.png",
+          "credit": "James Pelkey",
+          "caption": "Ca ressemble déjà au modèle OSI..."
+        }
+      },
+      {
+        "startDate": "1976,11",
+        "headline": "X.25: Approbation par le CCITT",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/X25-network-diagram-0a.svg/500px-X25-network-diagram-0a.svg.png",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1980",
+        "headline": "Usenet",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Usenet_servers_and_clients.svg/500px-Usenet_servers_and_clients.svg.png",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1981,09",
+        "headline": "RFC 791 & 793",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jon_Postel.jpg/524px-Jon_Postel.jpg",
+          "credit": "Wikipedia",
+          "caption": "Jonathan Bruce Postel"
+        }
+      },
+      {
+        "startDate": "1982",
+        "headline": "Lancement du Minitel",
+        "text": "Commercialisation par les PTT du « Médium interactif par numérisation d'information téléphonique ».",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Minitel_1.JPG/427px-Minitel_1.JPG",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1982,08",
+        "headline": "RFC 821",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SMTP-transfer-model.svg/640px-SMTP-transfer-model.svg.png",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1983",
+        "headline": "IEEE 802.3",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ethernet_RJ45_connector_p1160054.jpg/521px-Ethernet_RJ45_connector_p1160054.jpg",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1983,11",
+        "headline": "RFC 882 & 883",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DNS_in_the_real_world.svg/1000px-DNS_in_the_real_world.svg.png",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1984",
+        "headline": "ISO/IEC 7498-1",
+        "asset": {
+          "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/OSI-model-Communication.svg/500px-OSI-model-Communication.svg.png",
+          "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1989,03",
+        "headline": "Première ébauche du WWW au CERN",
+        "text": "L'invention du web lui vaudra d'être anobli par la reine Élisabeth II en 2004.<br>Cette proposition est toujours consultable en ligne: http://www.w3.org/History/1989/proposal.html",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tim_Berners-Lee_closeup.jpg/400px-Tim_Berners-Lee_closeup.jpg",
+            "credit": "Wikipedia",
+            "caption": "Tim Berners-Lee"
+        }
+      },
+      {
+        "startDate": "1993,4,22",
+        "headline": "Publication de Mosaic",
+        "text": "Le premier navigateur web populaire est NCSA Mosaic, grâce à son support pour les images et les formulaires.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mosaic_browser_plaque_ncsa.jpg/355px-Mosaic_browser_plaque_ncsa.jpg",
+            "credit": "Wikipedia",
+            "caption": "200 sites sont disponibles à l'époque"
+        }
+      },
+      {
+        "startDate": "1993,6",
+        "headline": "Première spécification HTML",
+        "text": "A Representation of Textual Information and MetaInformation for Retrieval and Interchange",
+        "asset": {
+            "media": "<blockquote>“HTML provides one simple format for providing linked information, and  all W3 compatible programs are required to be capable of handling HTML.”</blockquote>",
+            "credit": "http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt"
+        }
+      },
+      {
+        "startDate": "1994,10",
+        "headline": "Création du W3C",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/W3C_Icon.svg/500px-W3C_Icon.svg.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1994,12,15",
+        "headline": "Netscape 1.0",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/en/3/39/Welcome_to_Netscape.gif",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1994,07",
+        "headline": "Fondation d'Amazon.com",
+        "text": "Le site de vente arrive en ligne en 1995.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Jeff_Bezos%27_iconic_laugh.jpg/416px-Jeff_Bezos%27_iconic_laugh.jpg",
+            "credit": "Wikipedia",
+            "caption": "Jeff Bezos"
+        }
+      },
+      {
+        "startDate": "1995,03,1",
+        "headline": "Fondation de Yahoo!",
+        "text": "AltaVista est l'un des moteurs de recherche les plus populaires à l'époque.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jerry_Yang_and_David_Filo.jpg/640px-Jerry_Yang_and_David_Filo.jpg",
+            "credit": "Wikipedia",
+            "caption": "Jerry Yang & David Filo"
+        }
+      },
+      {
+        "startDate": "1995,08,16",
+        "headline": "Internet Explorer 1.0",
+        "text": "En moins de 5 ans, il précipitera la chutte de Nescape Navigator.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/en/3/39/Internet_Explorer_1.0.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1995,9,3",
+        "headline": "Fondation d'e-bay",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ebayheadquarters.jpg/640px-Ebayheadquarters.jpg",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "1995,12,4",
+        "headline": "Annonce de JavaScript",
+        "text": "Brendan Eich, qui n'a eu que 10 jours pour créer le langage,<br>n'est même pas cité dans l'annonce: http://goo.gl/E0nZm<br>En mars 1996, Netscape 2.0 est le premier navigateur à supporter JavaScript.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/0/09/BEich.jpg",
+            "credit": "Wikipedia",
+            "caption": "Brendan Eich"
+        }
+      },
+      {
+        "startDate": "1996,6",
+        "headline": "RFC 1945",
+        "asset": {
+            "media": "<blockquote>“HTTP has been in use by the World-Wide Web global information<br>initiative since 1990. This specification reflects common usage of<br>the protocol referred to as HTTP/1.0.”</blockquote>",
+            "caption": "http://www.w3.org/Protocols/rfc1945/rfc1945"
+        }
+      },
+      {
+        "startDate": "1996,12,17",
+        "headline": "CSS level 1",
+        "text": "La présentation devient officiellement partie intégrante du Web: http://www.w3.org/TR/REC-CSS1-961217",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/H%C3%A5kon_Wium_Lie.jpg/360px-H%C3%A5kon_Wium_Lie.jpg",
+            "credit": "Wikipedia",
+            "caption": "Håkon Wium Lie, CTO d'Opera Software"
+        }
+      },
+      {
+        "startDate": "1997,6",
+        "headline": "ECMA-262",
+        "text": "La première édition du standard est éditée par Guy Steele.",
+        "asset": {
+            "media": "http://youtu.be/_ahvzDzKdB0",
+            "credit": "YouTube",
+            "caption": "Guy Lewis Steele"
+        }
+      },
+      {
+        "startDate": "1998,9,4",
+        "headline": "Fondation de Google",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/639px-Schmidt-Brin-Page-20080520.jpg",
+            "credit": "Wikipedia",
+            "caption": "Eric Schmidt, Sergey Brin & Larry Page"
+        }
+      },
+      {
+        "startDate": "1999,6",
+        "headline": "HTTP 1.1",
+        "text": "RFC 2616 et le 'Chunked Transfer Coding': http://www.ietf.org/rfc/rfc2616.txt",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Roy_Fielding.jpg/360px-Roy_Fielding.jpg",
+            "credit": "Wikipedia",
+            "caption": "Roy Fielding"
+        }
+      },
+      {
+        "startDate": "2002",
+        "headline": "json.org",
+        "text": "Douglas Crockford découvre JSON en 2001, le popularise dès 2002 et le standardise en 2006: http://tools.ietf.org/rfc/rfc4627.txt",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Douglas_Crockford.jpg/360px-Douglas_Crockford.jpg",
+            "credit": "Wikipedia",
+            "caption": "Douglas Crockford"
+        }
+      },
+      {
+        "startDate": "2003,1,7",
+        "headline": "Safari 1.0",
+        "text": "Suite à l'abandon de Microsoft de la plateforme Apple, KHTML devient WebCore sous license GPL.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/fr/6/61/Apple_Safari.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "2004,9,10",
+        "headline": "Firefox 1.0",
+        "text": "Mozilla lance le premier navigateur Open Source grand public.<br>Netscape Navigator renaît de ses cendres...",
+        "asset": {
+            "media": "data/firefox_logo.jpg",
+            "credit": "Mozilla",
+            "caption": "J'adore les pandas roux :)"
+        }
+      },
+      {
+        "startDate": "2005,2,18",
+        "headline": "AJAX",
+        "text": "Jesse James Garrett identifie AJAX somme technique de développement d'applications web: http://www.adaptivepath.com/ideas/ajax-new-approach-web-applications",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Jesse-James-Garrett_Web2.0-Kongress_2007.jpg/360px-Jesse-James-Garrett_Web2.0-Kongress_2007.jpg",
+            "credit": "Wikipedia",
+            "caption": "Jesse James Garrett"
+        }
+      },
+      {
+        "startDate": "2006,1",
+        "headline": "jQuery 1.0",
+        "asset": {
+            "media": "data/jquery_logo.jpg",
+            "credit": "jQuery",
+            "caption": "Créé par John Resig"
+        }
+      },
+      {
+        "startDate": "2006,9,26",
+        "headline": "Facebook s'ouvre au public",
+        "text": "Depuis 2003 à Harvard, facebook s'était étendu aux universités américaines et canadiennes puis aux écoles.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MarkZuckerberg.jpg/450px-MarkZuckerberg.jpg",
+            "credit": "Wikipedia",
+            "caption": "Mark Zuckerberg"
+        }
+      },
+      {
+        "startDate": "2007,6,29",
+        "headline": "iPhone",
+        "text": "Apple ouvre le smartphone au grand public.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/en/7/7d/IOS_6_Home_Screen.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "2008,2",
+        "headline": "Lancement de GitHub",
+        "text": "Octocat bouscule le modèle Open Source près de 10 ans après SourceForge.",
+        "asset": {
+            "media": "data/octobiwan.jpg",
+            "credit": "Cameron McEfee"
+        }
+      },
+      {
+        "startDate": "2008,10",
+        "headline": "Premier téléphone Android",
+        "text": "Bugdroid vient faire de l'ombre à la pomme.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/500px-Android_robot.svg.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "2008,12,11",
+        "headline": "Google Chrome",
+        "text": "Basé sur Webkit et lancé par une BD.",
+        "asset": {
+            "media": "data/chrome_comic.jpg",
+            "credit": "Scott McCloud"
+        }
+      },
+      {
+        "startDate": "2011,6",
+        "headline": "ECMA-262 5.1",
+        "text": "La version 5 du langage équipe tous les navigateurs de dernière génération.",
+        "asset": {
+            "media": "http://upload.wikimedia.org/wikipedia/en/b/b2/Es5-screenshot.png",
+            "credit": "Wikipedia"
+        }
+      },
+      {
+        "startDate": "2013",
+        "headline": "Et maintenant?"
+      }
+    ]
+  }
+}

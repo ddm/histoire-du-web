@@ -6,7 +6,8 @@
     "text": "Un petit peu d'histoire...",
     "asset": {
       "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Internet_map_1024.jpg/480px-Internet_map_1024.jpg",
-      "credit": "Wikipedia"
+      "credit": "Wikipedia",
+      "caption": "Présenté à l'aide de http://timeline.verite.co/"
     },
     "date": [
       {
@@ -15,7 +16,8 @@
         "text": "D'abord on connecte deux PCs<br>...puis 4, puis...<br>",
         "asset": {
           "media": "http://www.netvalley.com/httpdocs/intval/07262/content/img/fournode-2_lowres.jpg",
-          "credit": "Gregory Gromov"
+          "credit": "Gregory Gromov",
+          "caption": "http://www.netvalley.com/"
         }
       },
       {
@@ -24,7 +26,8 @@
         "text": "Le public découvre les premières applications d'ARPANET sous la houlette étonnée d'AT&T.",
         "asset": {
           "media": "http://www.netvalley.com/httpdocs/intval/07262/content/img/net71-2_lowres.jpg",
-          "credit": "Gregory Gromov"
+          "credit": "Gregory Gromov",
+          "caption": "http://www.netvalley.com/"
         }
       },
       {
@@ -44,7 +47,7 @@
         "asset": {
           "media": "http://www.historyofcomputercommunications.info/images/BookImages/clip_image003_0003.png",
           "credit": "James Pelkey",
-          "caption": "Ca ressemble déjà au modèle OSI..."
+          "caption": "Ca ressemble déjà au modèle OSI...<br>http://www.historyofcomputercommunications.info/"
         }
       },
       {
@@ -313,7 +316,7 @@
       {
         "startDate": "2007,6,29",
         "headline": "iPhone",
-        "text": "Apple ouvre le smartphone au grand public.",
+        "text": "Apple popularise le smartphone.",
         "asset": {
             "media": "http://upload.wikimedia.org/wikipedia/en/7/7d/IOS_6_Home_Screen.png",
             "credit": "Wikipedia"

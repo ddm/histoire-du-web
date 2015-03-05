@@ -131,7 +131,7 @@
         "headline": "Publication de Mosaic",
         "text": "Le premier navigateur web populaire est NCSA Mosaic, grâce à son support pour les images et les formulaires.",
         "asset": {
-            "media": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mosaic_browser_plaque_ncsa.jpg/355px-Mosaic_browser_plaque_ncsa.jpg",
+            "media": "https://upload.wikimedia.org/wikipedia/en/b/b7/NCSA_Mosaic.PNG",
             "credit": "Wikipedia",
             "caption": "200 sites sont disponibles à l'époque"
         }
@@ -270,7 +270,7 @@
         "headline": "Safari 1.0",
         "text": "Suite à l'abandon de Microsoft de la plateforme Apple, KHTML devient WebCore sous license GPL.",
         "asset": {
-            "media": "http://upload.wikimedia.org/wikipedia/fr/6/61/Apple_Safari.png",
+            "media": "https://upload.wikimedia.org/wikipedia/en/6/61/Apple_Safari.png",
             "credit": "Wikipedia"
         }
       },
